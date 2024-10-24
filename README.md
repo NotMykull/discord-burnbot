@@ -1,1 +1,1 @@
-# discord-burnbot
+[![Discord Presence]([https://lanyard.kyrie25.dev/api/350653942608297984](https://lanyard.kyrie25.dev/api/350653942608297984?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&decoration=false&useDisplayName=true))](https://discord.com/users/350653942608297984)
